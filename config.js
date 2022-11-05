@@ -39,69 +39,69 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281251549899', 'DaniXd', true],
-['6281348106274', 'DaniOfc', true]
+['6281617247994', 'nanat store', true],
+['6281649370524', 'nanat prib', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
+global.nomorbot = '62816493705241'
+global.nomorown = '6281617247994'
+global.nomorown1 = '6281617247994'
+global.nomorown2 = '6281649370524'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By DaniXd'
-global.namebot = '𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = 'Created By Nanat'
+global.namebot = 'იɑ𝗍ccყ ᖯဓ𝗍'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 იɑიɑ𝗍 s𝗍ဓrе'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm2 = 'იɑ𝗍ccყ ᖯဓ𝗍 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Yushino MD`
+global.titlebot = `იɑიɑ𝗍 s𝗍ဓrе`
+global.stickpack = 'იɑიɑ𝗍 s𝗍ဓrе'
+global.stickauth = `© იɑიɑ𝗍 s𝗍ဓrе`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= 'nanat store'
+global.nameown2 = 'nanat store'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
+global.Linkgc = 'wait..'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/danibotz_official'
-global.sgh = 'https://github.com/YTDANIBOTZ' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/nndylst_'
+global.sgh = 'https://github.com/Xnayc' //github
+global.sgc = 'https://chat.whatsapp.com/Jz8KEPal0Ef1gdGinbVuAm' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
-global.povo = '0813 5284 8936'
-global.pgopay = '0813 5284 8936'
+global.pdana = '0858 1737 5168'
+global.povo = '-'
+global.pgopay = 'scan'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081348106274'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0857 8614 8114'
+global.ppulsa2 = '085786148114'
+global.psaweria = 'https://saweria.co/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.LyAtas1 = '☰ ━━━ ❨'
-global.LyAtas2 = '❩ ━━┄┈ •⟅'
+global.LyAtas1 = '命 ━━━ ❨'
+global.LyAtas2 = '❩ ━━┄┈ •命'
 global.Ly = '┃'
 global.lybwh = '┗━━┈┈ ⳻⳻'
-global.sym = '◈▻'
-global.sym2 = '➭'
+global.sym = 'ャ ›'
+global.sym2 = 'ャ ›'
 global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
@@ -304,9 +304,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/danibotz_official"
+global.urlnya = "https://www.instagram.com/nndylst_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0812 5154 9899'
+global.phn = '0816 1724 7994'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
